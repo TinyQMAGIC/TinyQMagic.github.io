@@ -1,0 +1,167 @@
+{
+  "source": "FINAL FANTASY XIV client UI icons, extracted read-only via ffxiv-lumina",
+  "copyright": "FINAL FANTASY XIV © SQUARE ENIX CO., LTD.",
+  "icons": [
+    {
+      "iconId": 62401,
+      "abbr": "PLD",
+      "nameCn": "骑士",
+      "nameEn": "Paladin",
+      "file": "pld.png"
+    },
+    {
+      "iconId": 62402,
+      "abbr": "MNK",
+      "nameCn": "武僧",
+      "nameEn": "Monk",
+      "file": "mnk.png"
+    },
+    {
+      "iconId": 62403,
+      "abbr": "WAR",
+      "nameCn": "战士",
+      "nameEn": "Warrior",
+      "file": "war.png"
+    },
+    {
+      "iconId": 62404,
+      "abbr": "DRG",
+      "nameCn": "龙骑士",
+      "nameEn": "Dragoon",
+      "file": "drg.png"
+    },
+    {
+      "iconId": 62405,
+      "abbr": "BRD",
+      "nameCn": "吟游诗人",
+      "nameEn": "Bard",
+      "file": "brd.png"
+    },
+    {
+      "iconId": 62406,
+      "abbr": "WHM",
+      "nameCn": "白魔法师",
+      "nameEn": "White Mage",
+      "file": "whm.png"
+    },
+    {
+      "iconId": 62407,
+      "abbr": "BLM",
+      "nameCn": "黑魔法师",
+      "nameEn": "Black Mage",
+      "file": "blm.png"
+    },
+    {
+      "iconId": 62408,
+      "abbr": "SMN",
+      "nameCn": "召唤师",
+      "nameEn": "Summoner",
+      "file": "smn.png"
+    },
+    {
+      "iconId": 62409,
+      "abbr": "SCH",
+      "nameCn": "学者",
+      "nameEn": "Scholar",
+      "file": "sch.png"
+    },
+    {
+      "iconId": 62410,
+      "abbr": "NIN",
+      "nameCn": "忍者",
+      "nameEn": "Ninja",
+      "file": "nin.png"
+    },
+    {
+      "iconId": 62411,
+      "abbr": "MCH",
+      "nameCn": "机工士",
+      "nameEn": "Machinist",
+      "file": "mch.png"
+    },
+    {
+      "iconId": 62412,
+      "abbr": "DRK",
+      "nameCn": "暗黑骑士",
+      "nameEn": "Dark Knight",
+      "file": "drk.png"
+    },
+    {
+      "iconId": 62413,
+      "abbr": "AST",
+      "nameCn": "占星术士",
+      "nameEn": "Astrologian",
+      "file": "ast.png"
+    },
+    {
+      "iconId": 62414,
+      "abbr": "SAM",
+      "nameCn": "武士",
+      "nameEn": "Samurai",
+      "file": "sam.png"
+    },
+    {
+      "iconId": 62415,
+      "abbr": "RDM",
+      "nameCn": "赤魔法师",
+      "nameEn": "Red Mage",
+      "file": "rdm.png"
+    },
+    {
+      "iconId": 62416,
+      "abbr": "BLU",
+      "nameCn": "青魔法师",
+      "nameEn": "Blue Mage",
+      "file": "blu.png"
+    },
+    {
+      "iconId": 62417,
+      "abbr": "GNB",
+      "nameCn": "绝枪战士",
+      "nameEn": "Gunbreaker",
+      "file": "gnb.png"
+    },
+    {
+      "iconId": 62418,
+      "abbr": "DNC",
+      "nameCn": "舞者",
+      "nameEn": "Dancer",
+      "file": "dnc.png"
+    },
+    {
+      "iconId": 62419,
+      "abbr": "RPR",
+      "nameCn": "钐镰客",
+      "nameEn": "Reaper",
+      "file": "rpr.png"
+    },
+    {
+      "iconId": 62420,
+      "abbr": "SGE",
+      "nameCn": "贤者",
+      "nameEn": "Sage",
+      "file": "sge.png"
+    },
+    {
+      "iconId": 62421,
+      "abbr": "VPR",
+      "nameCn": "蝰蛇剑士",
+      "nameEn": "Viper",
+      "file": "vpr.png"
+    },
+    {
+      "iconId": 62422,
+      "abbr": "PCT",
+      "nameCn": "绘灵法师",
+      "nameEn": "Pictomancer",
+      "file": "pct.png"
+    },
+    {
+      "iconId": 62423,
+      "abbr": "BST",
+      "nameCn": "驯兽师",
+      "nameEn": "Beastmaster",
+      "file": "bst.png"
+    }
+  ]
+}
